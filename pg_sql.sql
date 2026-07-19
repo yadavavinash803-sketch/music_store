@@ -15,6 +15,8 @@ select * from invoice
 order by total desc
 limit 3
 
+-- my self avinash yadav
+
 --Q4 which city has the best customers ? we would like to throw a promotional music festival in 
 -- the city we made the most money . write a query that returns one city that has the 
 -- highest sum of invoice totals. returns both the city name & sum of all invoice totals
